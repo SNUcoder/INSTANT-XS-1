@@ -6,3 +6,15 @@ This thing opens apps instantly, for now this may suck but in future we will upg
 if you find a bug please inform us, we will surely fix it.
 
 enjoy the app!
+
+
+## INSTRUCTIONS!!!
+STEP-1:- if you want to download the app it is easy,
+download "INSTANT XS 0.1.zip" in which disk you want to download
+
+STEP-2:- Extract the zip
+
+STEP-3:- A foledr will appear saying "INSTANT XS 0.1" in that click "main.exe". then you're done!
+
+
+Yes, the app dont need installation for now. We will add that later.
