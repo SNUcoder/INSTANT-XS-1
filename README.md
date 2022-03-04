@@ -18,3 +18,9 @@ STEP-3:- A foledr will appear saying "INSTANT XS 0.1" in that click "main.exe". 
 
 
 Yes, the app dont need installation for now. We will add that later.
+
+<!-- so you're reading this
+
+Never gonna give you up!
+
+also.. you are an idiot if you're reading this LOL XD -->
